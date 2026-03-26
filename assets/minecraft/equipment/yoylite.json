@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "minecraft:yoylite"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "minecraft:yoylite"
+      }
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "providers": [
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/yoy.png",
+      "ascent": 7,
+      "chars": [
+        "\u0040\u22b8\ud800\ude80\u2207\u005a\u0000\u0418\u159a\u305d\ua548\u16d7\u1598\u002d\u0000\u2144\u0000",
+        "\u03c0\ua61c\u1a09\u2a1d\u1597\u22a3\u29d6\u007c\ud834\udd29\u1599\u0298\u0000\u0000\u0000\u0000\u0000"
+      ]
+    }
+  ]
+}

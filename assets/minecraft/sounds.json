@@ -1,0 +1,156 @@
+{
+    "entity.splash_potion.throw": {
+        "sounds": [
+            {
+                "name": "random/bow/throw",
+                "pitch": 2.5
+            },
+            {
+                "name": "random/bow/yay",
+                "pitch": 2.5
+            }
+        ],
+        "subtitle": "Splash Potion Bottle thrown",
+        "replace": true
+    },
+    "entity.lingering_potion.throw": {
+        "sounds": [
+            {
+                "name": "random/bow/throw",
+                "pitch": 2.5
+            },
+            {
+                "name": "random/bow/yay",
+                "pitch": 2.5
+            }
+        ],
+        "subtitle": "Lingering Potion Bottle thrown",
+        "replace": true
+    },
+    "entity.splash_potion.break": {
+        "sounds": [
+            {
+                "name": "random/bow/smash",
+                "pitch": 1,
+                "weight": 1
+            },
+            {
+                "name": "random/glass1",
+                "weight": 33
+            },
+            {
+                "name": "random/glass2",
+                "weight": 33
+            },
+            {
+                "name": "random/glass3",
+                "weight": 33
+            }
+        ],
+        "subtitle": "Splash Potion Bottle breaks",
+        "replace": false
+    },
+    "entity.lingering_potion.break": {
+        "sounds": [
+            {
+                "name": "random/bow/smash",
+                "pitch": 1,
+                "weight": 1
+            },
+            {
+                "name": "random/glass1",
+                "weight": 33
+            },
+            {
+                "name": "random/glass2",
+                "weight": 33
+            },
+            {
+                "name": "random/glass3",
+                "weight": 33
+            }
+        ],
+        "subtitle": "Lingering Potion Bottle breaks",
+        "replace": false
+    },
+    "music_disc.heytwo": {
+        "sounds": [
+            {
+                "name": "records/heytwo"
+            }
+        ]
+    }
+,
+
+    "music_disc.aroundthebend": {
+        "sounds": [
+            {
+                "name": "records/aroundthebend"
+            }
+        ]
+    }
+,
+
+    "music_disc.newfriendly": {
+        "sounds": [
+            {
+                "name": "records/newfriendly"
+            }
+        ]
+    }
+,
+
+    "music_disc.loser": {
+        "sounds": [
+            {
+                "name": "records/loser"
+            }
+        ]
+    }
+,
+
+    "music_disc.places": {
+        "sounds": [
+            {
+                "name": "records/places"
+            }
+        ]
+    }
+
+,
+
+    "music_disc.dinlkie": {
+            "sounds": [
+                {
+                    "name": "records/dinlkie"
+                }
+            ]
+        }
+     ,
+
+    "music_disc.mtboreas": {
+            "sounds": [
+                {
+                       "name": "records/mtboreas"
+                }
+            ]
+        }
+    ,
+
+    "music_disc.nightmote": {
+            "sounds": [
+                {
+                    "name": "records/nightmote"
+                }
+            ]
+        }
+    ,
+
+    "music_disc.rewindreplay": {
+            "sounds": [
+                {
+                    "name": "records/rewindreplay"
+                }
+            ]
+        }
+}

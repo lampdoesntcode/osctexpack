@@ -1,0 +1,33 @@
+{
+  "model": {
+    "type": "select",
+    "property": "custom_model_data",
+    "fallback": {
+      "type": "model",
+      "model": "item/flint_and_steel"
+    },
+    "cases": [
+      {
+        "when": "blue",
+        "model": {
+          "type": "model",
+          "model": "item/flint_and_steel_blue"
+        }
+      },
+      {
+        "when": "green",
+        "model": {
+          "type": "model",
+          "model": "item/flint_and_steel_green"
+        }
+      },
+      {
+        "when": "rb",
+        "model": {
+          "type": "model",
+          "model": "item/flint_and_steel_rb"
+        }
+      }
+    ]
+  }
+}

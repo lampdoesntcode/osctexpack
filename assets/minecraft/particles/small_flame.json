@@ -1,0 +1,9 @@
+{
+	"credit": "Made with Blockbench",
+  "textures": [
+    "minecraft:flame_candle"
+  ],
+	"overrides": [
+		{"textures": ["minecraft:flame"], "predicate": {"block_state": 0}}
+	]
+}

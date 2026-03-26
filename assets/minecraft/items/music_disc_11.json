@@ -1,0 +1,75 @@
+{
+    "model": {
+      "type": "select",
+      "property": "custom_model_data",
+      "fallback": {
+        "type": "model",
+        "model": "item/music_disc_11"
+      },
+      "cases": [
+        {
+          "when": "two",
+          "model": {
+            "type": "model",
+            "model": "item/two"
+          }
+        },
+        {
+          "when": "new",
+          "model": {
+            "type": "model",
+            "model": "item/new"
+          }
+        },
+        {
+          "when": "bend",
+          "model": {
+            "type": "model",
+            "model": "item/bend"
+          }
+        },
+        {
+          "when": "dinlkie",
+          "model": {
+            "type": "model",
+            "model": "item/dinlkie"
+          }
+        },
+        {
+          "when": "loser",
+          "model": {
+            "type": "model",
+            "model": "item/loser"
+          }
+        },
+        {
+          "when": "mtboreas",
+          "model": {
+            "type": "model",
+            "model": "item/mtboreas"
+          }
+        },
+        {
+          "when": "nightmote",
+          "model": {
+            "type": "model",
+            "model": "item/nightmote"
+          }
+        },
+        {
+          "when": "places",
+          "model": {
+            "type": "model",
+            "model": "item/places"
+          }
+        },
+        {
+          "when": "rewindreplay",
+          "model": {
+            "type": "model",
+            "model": "item/rewindreplay"
+          }
+        }
+      ]
+    }
+  }

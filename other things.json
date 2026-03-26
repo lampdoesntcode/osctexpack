@@ -1,0 +1,22 @@
+    /*,
+    "entity.splash_potion.break": {
+        "sounds": [
+            {
+                "name": "random/bow/smash",
+                "pitch": 1
+            }
+        ],
+        "subtitle": "Splash Potion Bottle breaks",
+        "replace": true
+    },
+    "entity.lingering_potion.break": {
+        "sounds": [
+            {
+                "name": "random/bow/smash",
+                "pitch": 1
+            }
+        ],
+        "subtitle": "Lingering Potion Bottle breaks",
+        "replace": true
+    }*/
+}
